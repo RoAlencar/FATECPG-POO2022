@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TarefaHorario:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>TarefaHorario</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="TarefaHorario-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TarefaHorario:war exploded" />
+    </root>
+  </artifact>
+</component>
